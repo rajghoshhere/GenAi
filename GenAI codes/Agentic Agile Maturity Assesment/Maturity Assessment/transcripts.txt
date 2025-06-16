@@ -1,0 +1,48 @@
+Date: 13 June 2025
+Meeting: Agile Maturity Review
+Participants: 
+ - Anjali (Agile Consultant)
+ - Ravi (Scrum Master)
+ - Priya (Product Owner)
+ - Suresh (Developer)
+ - Meena (QA Engineer)
+
+---
+
+Anjali: Good morning, everyone. Today we’ll discuss the maturity of your Scrum practices and identify areas for improvement. Let’s start with how your Sprint Planning sessions are going.
+
+Ravi: We conduct Sprint Planning regularly. Lately, we’ve become better at estimating stories using story points, though sometimes we overcommit.
+
+Anjali: That’s a common challenge. Are all team members actively participating?
+
+Suresh: Yes, mostly. Initially, developers were a bit passive, but now everyone shares their thoughts on complexity and dependencies.
+
+Anjali: That’s great to hear. How about your Daily Stand-ups?
+
+Meena: They are consistent, and we keep them under 15 minutes. But sometimes we dive too much into problem-solving.
+
+Anjali: Okay, a gentle reminder to take detailed discussions offline. What about Sprint Reviews?
+
+Priya: We demo all completed stories to stakeholders. They give feedback, though not everyone shows up every time.
+
+Anjali: Try encouraging consistent stakeholder engagement—it improves feedback loops. Are you holding regular Retrospectives?
+
+Ravi: Yes, every Sprint. We use the Start-Stop-Continue format, but we struggle to convert insights into actual improvements.
+
+Anjali: Consider creating action items with owners and due dates. Let’s talk about backlog grooming.
+
+Priya: We do it weekly. I try to keep the backlog prioritized and ready for the next Sprint.
+
+Anjali: Excellent. Do you use any metrics to track progress?
+
+Suresh: We use velocity charts and sometimes burndown charts. But we don’t review them much.
+
+Anjali: Incorporating those into Retros can help spot trends. On a scale of 1 to 5, how would you rate your Scrum maturity?
+
+Ravi: Maybe a 3. We’re consistent, but there’s room to improve on execution and metrics.
+
+Anjali: That’s honest. I’d agree with a 3. Let’s work together to move towards a 4 over the next quarter.
+
+---
+
+Meeting ends.
